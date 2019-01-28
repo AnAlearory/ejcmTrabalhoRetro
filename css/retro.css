@@ -1,0 +1,50 @@
+/*classes*/
+.container{
+	background-color: white;
+	
+}
+
+.container > div{
+	margin: 0;
+}
+.row{
+	margin-top: 30vh;
+	margin-bottom: 40vh;
+	padding: 4vw;
+}
+/*elementos*/
+
+body{
+	background-image: url("../img/background/literature.jpg");
+	background-attachment: fixed; 
+	height: 100%;
+	color: black;
+}
+
+nav{
+	background-color: transparent;
+}
+
+nav ul a{
+	font-family: 'Dosis', sans-serif;
+	font-size: 2rem;
+}
+
+footer img{
+	width: 50px;
+	height: 50px;
+}
+span{
+	color: black;
+}
+/*id's*/
+#olho{
+	font-size: 2rem;
+	font-family: 'Roboto',sans-serif;
+}
+#rj{
+	color: black;
+}
+#copy{
+	padding-left: 2vw;
+}
